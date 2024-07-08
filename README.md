@@ -1,4 +1,4 @@
-# PowerBi_dashboard_Project
+# PowerBi_Dashboard_Project
 
 This is End-to-End Power BI Dashboard Project 
 
